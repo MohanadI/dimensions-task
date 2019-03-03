@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React DashApp](https://github.com/fac
 
 ## Available Scripts
 
+First please run 
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
